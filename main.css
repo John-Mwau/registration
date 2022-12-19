@@ -1,0 +1,71 @@
+body{
+	background-color: #FA8072;
+	position: fixed;
+	
+}
+.Button1{
+	position: relative;
+	left: 900px;
+	height: 50px;
+	border-radius: 7px;
+	background-color: purple;
+	
+
+}
+.Form1{
+	position: relative;
+	left: 800px;
+	width: 500px;
+	height: 500px;
+	border-right: 20px;
+	background-color: white;
+	padding-top: 10px;
+	margin-top: 20px;
+
+}
+.Text1{
+	height: 400px;
+	position: relative;
+	margin-top: -400px;
+	Margin-left: 100px;
+}
+form{
+	margin-left: 40px;
+
+}
+input{
+	width: 80%;
+	margin-bottom: 50px;
+	Margin-top: 20px;
+	border-radius: 5px;
+	font-size: 20px;
+}
+input[text]{
+	font-size: 20px;
+}
+
+.Button6{
+	background-color: green;
+	width: 50%;
+	margin-left: 70px;
+	font-size: 24px;
+	border-radius: 5px;
+}
+.P1{
+	font-size: 20px;
+	margin-left: 10px;
+}
+.P2{
+	font-size: 20px;
+	color: white;
+}
+.P3{
+	line-height: 40px;
+	font-size: 25px;
+	color: white;
+}
+
+
+
+
+
